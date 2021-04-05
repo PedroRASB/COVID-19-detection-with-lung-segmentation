@@ -1,1 +1,1 @@
-# COVID-19-detection-with-lung-segmentation
+# COVID-19 detection with lung segmentation
